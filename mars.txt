@@ -6,3 +6,4 @@ Add a fifth line.
 
 A new edit from a collaborator.
 Adding another line in another copy.
+This line added to Wolfman's copy.
